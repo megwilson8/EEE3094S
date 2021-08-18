@@ -1,2 +1,2 @@
-# EEE3094S
+# EEE3096S
 Practicals and pi
